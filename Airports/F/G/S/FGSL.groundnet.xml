@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="Stand_1" lat="N3 45.529890" lon="E8 42.981998" heading="132.700000" />
+        <Parking index="1" type="gate" name="Stand_2" lat="N3 45.498598" lon="E8 42.950840" heading="132.700000" />
+        <Parking index="2" type="gate" name="Stand_3" lat="N3 45.464699" lon="E8 42.923300" heading="132.700000" />
+        <Parking index="3" type="gate" name="East_ramp" lat="N3 45.529288" lon="E8 42.859175" heading="132.700000" />
+        <Parking index="4" type="gate" name="East_ramp" lat="N3 45.546019" lon="E8 42.874399" heading="132.700000" />
+        <Parking index="5" type="gate" name="East_ramp" lat="N3 45.513843" lon="E8 42.848119" heading="93.500000" />
+        <Parking index="6" type="gate" name="South_east_ramp" lat="N3 44.695517" lon="E8 42.205468" heading="37.900000" />
+        <Parking index="7" type="gate" name="South_east_ramp" lat="N3 45.401180" lon="E8 42.845261" heading="307.800000" />
+        <Parking index="8" type="gate" name="South_east_ramp" lat="N3 45.333391" lon="E8 42.772360" heading="49.700000" />
+        <Parking index="9" type="gate" name="South_east_ramp" lat="N3 45.349148" lon="E8 42.751832" heading="223.400000" />
+        <Parking index="10" type="gate" name="Cargo" lat="N3 45.196671" lon="E8 41.924063" heading="220.700000" />
+        <Parking index="11" type="gate" name="Cargo" lat="N3 45.265287" lon="E8 41.983002" heading="220.700000" />
+    </parkingList>
+</groundnet>

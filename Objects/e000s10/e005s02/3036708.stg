@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Power/transformer.ac 5.62318 -1.40852 0.00 42.6606
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62401 -1.40762 -0.06 131.422
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62429 -1.40737 -0.07 131.713
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62463 -1.40708 -0.06 132.982
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62072 -1.40964 -0.04 130.202
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62094 -1.40946 -0.20 130.993
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 5.62119 -1.40924 -0.19 130.395
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 5.62303 -1.40833 -0.12 220.404
+OBJECT_SHARED Models/Airport/HorizTanks2.ac 5.62285 -1.40857 -0.12 130.002
+OBJECT_SHARED Models/Airport/SmHangar.ac 5.62341 -1.40752 -0.13 41.8022
